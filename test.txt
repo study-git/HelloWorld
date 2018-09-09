@@ -2,3 +2,5 @@ add repository
 helloworld
 git pull
 nihao
+我是bug
+我是dev
